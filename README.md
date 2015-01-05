@@ -11,3 +11,5 @@ It requires my [modified version of the Adafruit_SSD1306 library](https://github
 
 It should be easy enough to compile this in the Arduino IDE, although it may be too slow to display without glitches (I have not tested this).
 
+The fonts were exported in .xbm format using GIMP (rename the file to .cpp afterwards and add it to your sketch).
+
